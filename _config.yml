@@ -1,0 +1,5 @@
+theme: minima
+
+title: titel from jekyll yaml
+author: luke
+description: it tells me i can write description.
